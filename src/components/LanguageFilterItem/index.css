@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.btnLang {
+  font-size: 20px;
+  font-family: Roboto;
+  border: none;
+  background: none;
+  margin-right: 10px;
+  font-weight: 400;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.langContainer {
+  margin-top: 10px;
+  list-style: none;
+}
+.clickedCss {
+  border: solid 1px #0284c7;
+  border-radius: 10px;
+  color: #0284c7;
+}

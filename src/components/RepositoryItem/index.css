@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.name {
+  color: #e73959;
+  font-family: Roboto;
+  font-size: 20px;
+}
+.starimg {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.star-cont {
+  display: flex;
+  align-items: center;
+}
+.imageRepo {
+  height: 100px;
+}
+.containerItem {
+  background-color: #e73959;
+}
+.ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.containerItem {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f8f8ff;
+  margin: 10px;
+  padding: 20px;
+  list-style: none;
+  border-radius: 10px;
+}
